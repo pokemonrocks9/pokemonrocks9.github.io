@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.castwise.app",
+    "sha256_cert_fingerprints": ["D5:79:84:7C:53:7C:85:22:BB:B6:6E:0F:65:20:B5:65:7E:DA:51:AA:84:DD:02:46:DF:4A:C2:05:F0:A4:F7:B8"]
+  }
+}]
